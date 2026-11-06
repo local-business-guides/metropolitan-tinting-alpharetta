@@ -23,6 +23,9 @@
 - [Residential window tinting Alpharetta, explained](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/residential-window-tinting-alpharetta/): Searching for residential window tinting Alpharetta? Metropolitan Tinting installs car film at your home or office. Call to arrange an appointment.
 - [Window tinting service Alpharetta for your car](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/window-tinting-service-alpharetta/): Need Window tinting service Alpharetta drivers can arrange at home or work? Ask Metropolitan Tinting about car film and schedule an appointment today.
 
+## Newsroom
+- [Metropolitan Tinting Shares Alpharetta Window Tinting Guide and Media](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/news/2026-11-06-metropolitan-tinting-shares-alpharetta-window/): Metropolitan Tinting has released a local window tinting guide, a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Window Tinting in Alpharetta, Georgia](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/): Custom car window tinting in Alpharetta can help cut glare, limit UV exposure, and make your drive more comfortable. Call +1770-825-1404.
 - [About Metropolitan Tinting](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/about/): About Metropolitan Tinting, Alpharetta.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/metropolitan-tinting-alpharetta/news/rss.xml)
 - [Main resource site](https://metropolitan-tinting-alpharetta.localbusinesses1.chatgpt.site)
